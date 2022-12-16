@@ -1,0 +1,19 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Flat world generation",
+		"name": "Flat_World",
+		"uuid": "8d8fc99d-d913-4034-bd0e-50a201e13c56",
+		"version": [ 0,0,3 ],
+		"min_engine_version": [ 1, 19, 30 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "data",
+			"uuid": "c216b120-1e23-4c19-ae14-f5d8889e2020",
+			"version": [0, 0, 1]
+		}
+	]
+}
+
