@@ -2,10 +2,10 @@
   "format_version": "1.13.0",
   "minecraft:scatter_feature": {
     "description": {
-      "identifier": "void:void_air_fill"
+      "identifier": "void:void_air_fill_1"
     },
     "places_feature": "void:void_air",
-    "iterations": "210*256",
+    "iterations": "320*256",
     "x": {
       "distribution": "fixed_grid",
       "extent": [ 0, 15 ]
@@ -16,7 +16,7 @@
     },
     "y": {
       "distribution": "fixed_grid",
-      "extent": [ 0, 200 ]
+      "extent": [ 0, 319 ]
     }
   }
 }
