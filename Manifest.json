@@ -2,16 +2,16 @@
 	"format_version": 2,
 	"header": {
 		"description": "Flat world generation",
-		"name": "Flat_World",
-		"uuid": "e8e857d8-683e-4789-b227-290aca9ac97d",
-		"version": [ 0,0,5 ],
+		"name": "Flat_World 0.0.6",
+		"uuid": "839c406f-ffde-496d-af6e-a4dd5f3e3469",
+		"version": [ 0,0,6 ],
 		"min_engine_version": [ 1, 20, 10 ]
 	},
 	"modules": [
 		{
 			"description": "",
 			"type": "data",
-			"uuid": "eabb36ef-2dfa-4636-9566-03eb58162e3a",
+			"uuid": "f5a7225a-1a45-4ebe-b96e-0a084fbdec2b",
 			"version": [0, 0, 1]
 		}
 	]
