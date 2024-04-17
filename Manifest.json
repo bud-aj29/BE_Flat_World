@@ -1,19 +1,30 @@
 {
-	"format_version": 2,
-	"header": {
-		"description": "Flat world generation",
-		"name": "Flat_World 0.0.6",
-		"uuid": "839c406f-ffde-496d-af6e-a4dd5f3e3469",
-		"version": [ 0,0,6 ],
-		"min_engine_version": [ 1, 20, 10 ]
-	},
-	"modules": [
-		{
-			"description": "",
-			"type": "data",
-			"uuid": "f5a7225a-1a45-4ebe-b96e-0a084fbdec2b",
-			"version": [0, 0, 1]
-		}
-	]
+  "format_version": 2,
+  "header": {
+    "description": "Flat world generation",
+    "name": "Flat_World_v0.0.7",
+    "uuid": "ebec50c2-1567-41c5-af39-56cdcfcd0531",
+    "version": [
+      0,
+      0,
+      7
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      60
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "fdac3def-b77d-4cfb-8796-cda57eb6c42c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
 }
-
