@@ -1,7 +1,6 @@
 - Last tested on 1.20.73
-- v0.0.7 changes:
-  - Various code and file organization improvements
-  - Lowered generation from sea level to y-64
+- v0.0.8 changes:
+  - Renamed manifest file to fix a bug loading on some OS
 - Flat world generation
 - Structures not deleted during void generation.
 
